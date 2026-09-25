@@ -74,7 +74,7 @@ Para optimizar recursos bajo ISO 42001 (Control de Costos y Eficiencia Sistemát
 ---
 
 ## 4. Especificación Operativa del Modelo de Capas y Capacidades
-![Arquitectura de IA Gobernada - ISO 42001] (arquitectura ia iso 42001.png)
+![Arquitectura de IA Gobernada - ISO 42001](arquitectura%20ia%20iso%2042001.png)
 La arquitectura se compone de los siguientes paquetes de funcionalidad encapsulados, asegurando que no existan brechas operacionales respecto a modelos de infraestructura previos, pero reduciendo radicalmente la carga cognitiva de la organización:
 
 ### 🏛️ Capa Transversal: Políticas Inyectadas y Gobernanza Operacional
